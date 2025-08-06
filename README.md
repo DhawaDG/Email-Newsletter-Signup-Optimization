@@ -67,6 +67,8 @@ Used `alternative='larger'` to test if the treatment group outperformed the cont
 
 Interpreted the p-value to either reject or fail to reject H₀.
 
+There is no change between control and treatment experiment
+
 ---
 
 ## 📚 Key Concepts Learned
