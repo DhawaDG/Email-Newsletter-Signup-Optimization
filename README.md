@@ -83,7 +83,7 @@ Interpreted the p-value to either reject or fail to reject H₀.
 
 
 - [Trustworthy Online Controlled Experiments - Ron Kohavi](https://www.scribd.com/document/711189937/Kohavi-Diane-Tang-Xu-Trustworthy-Online-Controlled-Experiments-A-Practical-Guide-to-AB-Testing-2020)
-- [Practical Statistics for Data Scientists]()
+- [Practical Statistics for Data Scientists](https://github.com/DhawaDG/Email-Newsletter-Signup-Optimization/blob/master/reference%20book/Practical%20Statistics%20for%20Data%20Scientists%20(%20PDFDrive%20).pdf)
 - [Statsmodels Proportions Z-Test Documentation](https://www.statsmodels.org/stable/generated/statsmodels.stats.proportion.proportions_ztest.html)
 
 
