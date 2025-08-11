@@ -98,4 +98,4 @@ There is no change between control and treatment experiment
 - Apply this method on real user behavior datasets
 
 ---
-##  📂[+20 AB testing project →](https://github.com/DhawaDG/AB_Testing_Project/blob/main/README.md) 
+##  **📂[+20 AB Testing Projects →](https://github.com/DhawaDG/AB_Testing_Project/blob/main/README.md)** 
