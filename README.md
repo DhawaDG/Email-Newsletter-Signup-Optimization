@@ -1,4 +1,4 @@
-# 📈 A/B Testing Project: Email Newsletter Signup Optimization
+# 📈 A/B Testing Project 1 : Email Newsletter Signup Optimization
 
 ## 🧪 Overview
 
