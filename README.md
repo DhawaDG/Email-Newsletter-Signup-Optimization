@@ -1,4 +1,4 @@
-# 📈 A/B Testing Project 1 : Email Newsletter Signup Optimization
+# 📈 [A/B Testing Project 1](https://github.com/DhawaDG/AB_Testing_Project/blob/main/README.md) : Email Newsletter Signup Optimization
 
 ## 🧪 Overview
 
